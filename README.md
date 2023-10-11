@@ -38,12 +38,12 @@ A Lasso Regression model is created and trained using the training data.
 Similar to Linear Regression, predictions are made on both the training and testing data. 
 The Lasso Regression model achieves an accuracy of 76% on test data.
 
-Conclusion
+## Conclusion
 This project provides a simple example of car price prediction using machine learning techniques.
 It covers data preprocessing, exploratory data analysis, and model building.
 By analyzing the accuracy scores, you can evaluate the performance of both the Linear Regression and Lasso Regression models in predicting car prices.
 
-Contributing
+## Contributing
 We welcome contributions to this repository! If you want to contribute to the project by improving the models, enhancing data preprocessing, or adding new features, please feel free to fork the repository and submit a pull request.
 We appreciate your contributions and collaboration in making this project better.
 
